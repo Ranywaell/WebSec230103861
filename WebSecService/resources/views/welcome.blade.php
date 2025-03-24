@@ -4,6 +4,7 @@
     <div class="card m-4">
       <div class="card-body">
         Welcome to Home Page
+        hello
       </div>
     </div>
 @endsection
